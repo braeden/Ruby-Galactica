@@ -156,15 +156,3 @@ Ray.game "Asteroids", :size => [600, 700] do
   end
   scenes << :square
 end
-
-=begin
-
-
-player hit
-alien hit
-lives
-lose
-
-alien spawn
-score
-=end
